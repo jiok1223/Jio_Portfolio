@@ -15,23 +15,11 @@
 기능:<br/><br/>
 
 
-![main](https://i.esdrop.com/d/zap37G3xKb.PNG)
-
-- 날씨 api로 가져온 기온을 토대로 기본적인 코디 추천
-
-- 실 사용자들 투표를 firebase에 저장 -> 차트로 한눈에 확인 가능
-
-- 한줄 코멘트 기능으로 간단한 정보 교류<br/><br/><br/>
-
-![floating button](https://i.esdrop.com/d/lgMPtN0icG.PNG)
-
-> <br/>플로팅 버튼으로 투표와 코멘트 작성<br/><br/>
-
-<br/><br/><br/>
-![news](https://i.esdrop.com/d/oyig56O7pZ.PNG)
+![main](https://steemitimages.com/250x0//https://i.esdrop.com/d/zap37G3xKb.PNG) 
+![floating button](https://steemitimages.com/250x0//https://i.esdrop.com/d/lgMPtN0icG.PNG)
+![news](https://steemitimages.com/250x0//https://i.esdrop.com/d/oyig56O7pZ.PNG)
 
 
-> <br/>실시간 날씨 뉴스 제공<br/><br/>
 
 
 
