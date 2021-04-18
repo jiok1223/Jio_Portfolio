@@ -12,7 +12,7 @@
 - sns 기능 제공을 통한 정보 교류
 <br/><br/>
 
-기능:<br/><br/>
+> <br/>기능<br/><br/>
 
 
 ![main](https://steemitimages.com/250x0//https://i.esdrop.com/d/zap37G3xKb.PNG) 
