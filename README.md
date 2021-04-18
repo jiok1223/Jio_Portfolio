@@ -13,6 +13,9 @@
 <br/><br/>
 
 기능:<br/><br/>
+|![main](https://i.esdrop.com/d/zap37G3xKb.PNG)|
+![floating button](https://i.esdrop.com/d/lgMPtN0icG.PNG)|![news](https://i.esdrop.com/d/oyig56O7pZ.PNG)|
+
 ![main](https://i.esdrop.com/d/zap37G3xKb.PNG)
 
 - 날씨 api로 가져온 기온을 토대로 기본적인 코디 추천
