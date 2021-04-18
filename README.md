@@ -13,8 +13,7 @@
 <br/><br/>
 
 기능:<br/><br/>
-|![main](https://i.esdrop.com/d/zap37G3xKb.PNG)|
-![floating button](https://i.esdrop.com/d/lgMPtN0icG.PNG)|![news](https://i.esdrop.com/d/oyig56O7pZ.PNG)|
+
 
 ![main](https://i.esdrop.com/d/zap37G3xKb.PNG)
 
