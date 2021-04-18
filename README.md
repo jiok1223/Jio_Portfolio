@@ -23,5 +23,3 @@
 
 
 
-
-[코드](https://github.com/ramdaG/Project2021) 
