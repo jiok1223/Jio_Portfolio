@@ -7,7 +7,7 @@
 
 > <br/>개발 환경<br/><br/>
 
-Android Studio, Firebase, github<br/><br/>
+Android Studio, Firebase, Github<br/><br/>
 
 
 
@@ -25,8 +25,7 @@ Android Studio, Firebase, github<br/><br/>
 - sns 기능 제공을 통한 정보 교류
 
 
-<br/><br/>
-
+<br/>
 
 > <br/>기능<br/><br/>
 
