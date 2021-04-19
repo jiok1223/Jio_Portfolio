@@ -9,21 +9,6 @@
 
 Android Studio, Firebase, github<br/><br/>
 
-> <br/>개발 기획<br/><br/>
-
-- 기온 변화에 따라 기본적인 코디 추천
-- 실 사용자들의 투표로 정확도 높은 코디 추천
-- sns 기능 제공을 통한 정보 교류
-<br/><br/>
-
-*(2021.01.04~ 2021.02.05)](https://github.com/ramdaG/Project2021)
-
-
-날씨에 따른 코디 제안 어플
-
-
-
-<br/><br/>
 
 
 
